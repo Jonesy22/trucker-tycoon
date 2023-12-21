@@ -1,0 +1,52 @@
+{
+    "Los Angeles, CA": {
+        "name": "Los Angeles, CA",
+        "loadCountBias": [4],
+        "distance": {
+            "Chicago, IL": 2025,
+            "Denver, CO": 1017,
+            "New York, NY": 2803,
+            "Dallas, TX": 1440
+        }
+    },
+    "Chicago, IL": {
+        "name": "Chicago, IL",
+        "loadCountBias": [4],
+        "distance": {
+            "Denver, CO": 1014,
+            "New York, NY": 807,
+            "Dallas, TX": 928,
+            "Los Angeles, CA": 2095
+        }
+    },
+    "Denver, CO": {
+        "name": "Denver, CO",
+        "loadCountBias": [0.2],
+        "distance": {
+            "Los Angeles, CA": 1017,
+            "Chicago, IL": 1014,
+            "New York, NY": 1796,
+            "Dallas, TX": 875
+        }
+    },
+    "New York, NY": {
+        "name": "New York, NY",
+        "loadCountBias": [4],
+        "distance": {
+            "Los Angeles, CA": 2803,
+            "Chicago, IL": 807,
+            "Denver, CO": 1976,
+            "Dallas, TX": 1561
+        }
+    },
+    "Dallas, TX": {
+        "name": "Dallas, TX",
+        "loadCountBias": [4],
+        "distance": {
+            "Chicago, IL": 928,
+            "Denver, CO": 875,
+            "New York, NY": 1561,
+            "Los Angeles, CA": 1440
+        }
+    }
+}

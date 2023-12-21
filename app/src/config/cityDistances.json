@@ -1,0 +1,102 @@
+[
+    {
+        "cityStateOrigin": "Los Angeles, CA",
+        "cityStateDestination": "Chicago, IL",
+        "distance": 2025
+    },
+    {
+        "cityStateOrigin": "Los Angeles, CA",
+        "cityStateDestination": "Denver, CO",
+        "distance": 1017
+    },
+    {
+        "cityStateOrigin": "Los Angeles, CA",
+        "cityStateDestination": "New York, NY",
+        "distance": 2803
+    },
+    {
+        "cityStateOrigin": "Los Angeles, CA",
+        "cityStateDestination": "Dallas, TX",
+        "distance": 1440
+    },
+    {
+        "cityStateOrigin": "Chicago, IL",
+        "cityStateDestination": "Los Angeles, CA",
+        "distance": 2095
+    },
+    {
+        "cityStateOrigin": "Chicago, IL",
+        "cityStateDestination": "Denver, CO",
+        "distance": 1014
+    },
+    {
+        "cityStateOrigin": "Chicago, IL",
+        "cityStateDestination": "New York, NY",
+        "distance": 807
+    },
+    {
+        "cityStateOrigin": "Chicago, IL",
+        "cityStateDestination": "Dallas, TX",
+        "distance": 928
+    },
+    {
+        "cityStateOrigin": "Denver, CO",
+        "cityStateDestination": "Los Angeles, CA",
+        "distance": 1017
+    },
+    {
+        "cityStateOrigin": "Denver, CO",
+        "cityStateDestination": "Chicago, IL",
+        "distance": 1014
+    },
+    {
+        "cityStateOrigin": "Denver, CO",
+        "cityStateDestination": "New York, NY",
+        "distance": 1796
+    },
+    {
+        "cityStateOrigin": "Denver, CO",
+        "cityStateDestination": "Dallas, TX",
+        "distance": 875
+    },
+    {
+        "cityStateOrigin": "New York, NY",
+        "cityStateDestination": "Los Angeles, CA",
+        "distance": 2803
+    },
+    {
+        "cityStateOrigin": "New York, NY",
+        "cityStateDestination": "Chicago, IL",
+        "distance": 807
+    },
+    {
+        "cityStateOrigin": "New York, NY",
+        "cityStateDestination": "Denver, CO",
+        "distance": 1976
+    },
+    {
+        "cityStateOrigin": "New York, NY",
+        "cityStateDestination": "Dallas, TX",
+        "distance": 1561
+    },
+    {
+        "cityStateOrigin": "Dallas, TX",
+        "cityStateDestination": "Los Angeles, CA",
+        "distance": 1440
+    },
+    {
+        "cityStateOrigin": "Dallas, TX",
+        "cityStateDestination": "Chicago, IL",
+        "distance": 928
+    },
+    {
+        "cityStateOrigin": "Dallas, TX",
+        "cityStateDestination": "Denver, CO",
+        "distance": 875
+    },
+    {
+        "cityStateOrigin": "Dallas, TX",
+        "cityStateDestination": "New York, NY",
+        "distance": 1561
+    }
+]

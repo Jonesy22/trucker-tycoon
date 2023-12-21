@@ -1,0 +1,34 @@
+{
+  "name": "trucking-game-hackathon-2023",
+  "version": "1.0.0",
+  "homepage": "https://jonesy22.github.io/trucker-tycoon/",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "turbo daemon clean",
+    "start": "turbo start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "prebuild": "npm i && cd app && npm i",
+    "build": "turbo build"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "app"
+  ],
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/jest": "^29.5.7",
+    "@types/react": "^18.2.33",
+    "@types/react-dom": "^18.2.14",
+    "gh-pages": "^6.1.0",
+    "turbo": "^1.10.16",
+    "typescript": "^5.2.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.6"
+  }
+}
